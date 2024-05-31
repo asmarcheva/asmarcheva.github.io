@@ -2,9 +2,9 @@
 layout: default
 ---
 
-## Welcome to another page
+## CV
 
-_yay_
+Last updated May 31, 2024
 
 <object data="./assets/Marcheva_CV.pdf" width="500" height="700" type='application/pdf'></object>
 
