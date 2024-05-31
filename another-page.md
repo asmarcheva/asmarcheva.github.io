@@ -4,8 +4,8 @@ layout: default
 
 ## CV
 
-Last updated May 31, 2024
-
-<object data="./assets/Marcheva_CV.pdf" width="500" height="700" type='application/pdf'></object>
+Last updated May 31, 2024. Or view it on <a href="https://github.com/asmarcheva/CV/blob/f7328bbc1bdfe72de99992dd78afd6d8de7af8d9/Marcheva_CV.pdf">another page</a>
+ 
+<object data="./assets/Marcheva_CV.pdf" width="600" height="700" type='application/pdf'></object>
 
 [back](./)
