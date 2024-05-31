@@ -13,4 +13,4 @@ My **CV** is [here](./another-page.html). You can reach me at <a href="asm395@co
 <a href="https://www.nber.org/system/files/chapters/c15011/c15011.pdf">"Equity and Efficiency in the
 Bipartisan Infrastructure Law’s Adaptation Investments"</a> with Ivan Rudik and Derek Lemoine
 
-Equity and Efficiency in International Climate Adaptation Portfolios with Derek Lemoine and Ivan Rudik
+"Equity and Efficiency in International Climate Adaptation Portfolios" with Derek Lemoine and Ivan Rudik
