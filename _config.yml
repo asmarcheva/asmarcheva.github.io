@@ -2,7 +2,8 @@ title: Antonia Marcheva
 logo: /assets/img/image.jpg
 description: Hi, I'm Toni!
 show_downloads: false
-google_analytics:
+google_analytics: 
+google-site-verification: _Qo6hku0i4CeLHlvEVg-Kjqr9XLdKoHfAU_iO7N9jzI
 theme: jekyll-theme-minimal
 plugins:
 - jekyll-remote-theme
