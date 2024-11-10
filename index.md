@@ -10,6 +10,8 @@ My **CV** is [here](./cv.html). You can reach me at <a href="asm395@cornell.edu"
 
 ## Current work
 
+"The value of biased water forecasts for farm adaptation": Job Market Paper, draft coming soon
+
 "Equity and Efficiency in International Climate Adaptation Portfolios" with Derek Lemoine and Ivan Rudik
 
 ## Published and Forthcoming Papers
