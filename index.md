@@ -12,8 +12,7 @@ My **CV** is [here](./cv.html). You can reach me at <a href="asm395@cornell.edu"
 
 ## Current work
 
-"The effects of annual water forecasts on irreversible groundwater
-investments and long-run water use": Job Market Paper, click [here](./jmp.html) for latest version! 
+"The benefits and costs of agricultural adaptation to surface water scarcity": Job Market Paper, click [here](./jmp.html) for latest version! 
 
 "Equity and Efficiency in International Climate Adaptation Portfolios" with Derek Lemoine and Ivan Rudik
 
