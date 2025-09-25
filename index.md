@@ -19,4 +19,4 @@ My **CV** is [here](./cv.html). You can reach me at <a href="asm395@cornell.edu"
 "Quantifying the future effects of current natural resource use: A global study of groundwater drawdown"
 
 ## Published and Forthcoming Papers
-    <p>Rudik, Ivan, Derek Lemoine, and Antonia Marcheva. "<a href="https://www.journals.uchicago.edu/doi/full/10.1086/733357">Equity and efficiency in the Bipartisan Infrastructure Law's adaptation investments</a>." <em>Environmental and Energy Policy and the Economy</em> 6, no. 1 (2025): 65-100.</p>
+<p>Rudik, Ivan, Derek Lemoine, and Antonia Marcheva. "<a href="https://www.journals.uchicago.edu/doi/full/10.1086/733357">Equity and efficiency in the Bipartisan Infrastructure Law's adaptation investments</a>." <em>Environmental and Energy Policy and the Economy</em> 6, no. 1 (2025): 65-100.</p>
