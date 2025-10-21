@@ -4,8 +4,8 @@ layout: cv
 
 ## Job Market Paper
 
-Last updated October 10, 2025.
+Last updated October 20, 2025.
  
-<object data="./assets/Marcheva_Draft_Oct15.pdf" width="800" height="1000" type='application/pdf'></object>
+<object data="./assets/Marcheva_Draft_Oct20.pdf" width="800" height="1000" type='application/pdf'></object>
 
 [back](./)
