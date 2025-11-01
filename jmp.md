@@ -6,6 +6,6 @@ layout: cv
 
 Last updated October 20, 2025.
  
-<object data="./assets/Marcheva_Draft_Oct28.pdf" width="800" height="1000" type='application/pdf'></object>
+<object data="./assets/Marcheva_Draft_Nov1.pdf" width="800" height="1000" type='application/pdf'></object>
 
 [back](./)
