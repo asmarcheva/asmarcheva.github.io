@@ -6,6 +6,6 @@ layout: cv
 
 Last updated November 9, 2025
  
-<object data="./assets/Marcheva_Draft_Nov9.pdf" width="800" height="1000" type='application/pdf'></object>
+[Job Market Paper, click here for latest version!](https://asmarcheva.github.io/files/JMP.pdf)
 
 [back](./)

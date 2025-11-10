@@ -12,7 +12,7 @@ My **CV** is [here](https://asmarcheva.github.io/files/CV.pdf). You can reach me
 
 ## Current work
 
-"The benefits and costs of agricultural adaptation to surface water scarcity": [Job Market Paper, click here for latest version!](https://asmarcheva.github.io/files/Marcheva_Draft_Nov9.pdf)
+"The benefits and costs of agricultural adaptation to surface water scarcity": [Job Market Paper, click here for latest version!](https://asmarcheva.github.io/files/JMP.pdf)
 
 "Equity and Efficiency in International Climate Adaptation Portfolios" with Derek Lemoine and Ivan Rudik
 
