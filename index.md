@@ -8,11 +8,11 @@ I study Environmental and Resource economics, and I'm particularly interested in
 
 My job market paper is about how farmers in California use short-term weather forecasts to make irreversible investment into groundwater access through well drilling. I will be on the market in Fall 2025.
 
-My **CV** is [here](./cv.html). You can reach me at <a href="asm395@cornell.edu">asm395@cornell.edu</a>.
+My **CV** is [here](./files/CV.pdf). You can reach me at <a href="asm395@cornell.edu">asm395@cornell.edu</a>.
 
 ## Current work
 
-"The benefits and costs of agricultural adaptation to surface water scarcity": Job Market Paper, click [here](./jmp.html) for latest version! 
+"The benefits and costs of agricultural adaptation to surface water scarcity": [Job Market Paper, click here for latest version!](./files/Marcheva_Draft_Nov9.pdf)
 
 "Equity and Efficiency in International Climate Adaptation Portfolios" with Derek Lemoine and Ivan Rudik
 
