@@ -4,9 +4,9 @@ layout: default
 
 I am a PhD Candidate at Cornell Dyson School of Applied Economics and Management.
 
-I study Environmental and Resource economics, and I'm particularly interested in water management, climate change adaptation, and environmental valuation.  
+I study Environmental and Resource economics, and I'm particularly interested in water management and climate change adaptation.  
 
-My job market paper is about how farmers in California use short-term weather forecasts to make irreversible investment into groundwater access through well drilling. I will be on the market in Fall 2025.
+My [job market paper](https://asmarcheva.github.io/files/JMP.pdf) is about how California farmers take up water conserving and groundwater intensifying adaptation based on surface water scarcity announced at different points in the planting season. I find that (ex-ante) adaptation to expected scarcity is highly privately beneficial, and has low contemporaneous external costs, through some longer-run external costs through well drilling. (Ex-post) adaptation to scarcity announced late in the season results in substantial increases in groundwater use. 
 
 My **CV** is [here](https://asmarcheva.github.io/files/CV.pdf). You can reach me at <a href="asm395@cornell.edu">asm395@cornell.edu</a>.
 
