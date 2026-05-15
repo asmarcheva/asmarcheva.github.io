@@ -88,24 +88,43 @@ Everything was either given to me or cost me less than $30. My main hope is that
 
 <div class="giveaway-grid">
 
-  <!-- ITEM TEMPLATE — copy this block to add a new item
   <div class="giveaway-card">
-    <img src="/assets/img/giveaway/FILENAME.jpg" alt="ITEM NAME">
+    <img src="/assets/img/giveaway/toolkit.jpg" alt="Tool set">
     <div class="giveaway-card-body">
-      <div class="giveaway-card-title">ITEM NAME</div>
-      <p class="giveaway-card-desc">DESCRIPTION</p>
-      <span class="giveaway-badge badge-available">Available</span>
+      <div class="giveaway-card-title">Toolset </div>
+      <p class="giveaway-card-desc">The box is broken but the tools are fine</p>
+      <span class="giveaway-badge badge-available">All available</span>
     </div>
   </div>
-  -->
 
   <div class="giveaway-card">
-    <img src="/assets/img/giveaway/toolkit.jpg" alt="Example item">
+    <img src="/assets/img/giveaway/music.jpg" alt="Music stuff">
     <div class="giveaway-card-body">
-      <div class="giveaway-card-title">Tool set </div>
-      <p class="giveaway-card-desc">The box is broken but all the tools are fine! <code>assets/img/giveaway/</code>.</p>
+      <div class="giveaway-card-title">Music stuff </div>
+      <p class="giveaway-card-desc"> Morris 3/4 guitar; I reduced the action so it is nice to play. And a foldable music stand  </p>
+      <span class="giveaway-badge badge-available">All available</span>
+    </div>
+  </div>
+
+  <div class="giveaway-card">
+    <img src="/assets/img/giveaway/games.jpg" alt="Games">
+    <div class="giveaway-card-body">
+      <div class="giveaway-card-title">Games </div>
+      <p class="giveaway-card-desc"> Ticket to Ride, a world puzzle (pieces are in shapes of countries), Pass the Pigs, Five Crowns  </p>
+      <span class="giveaway-badge badge-available">All available</span>
+    </div>
+  </div>
+
+  <div class="giveaway-card">
+    <img src="/assets/img/giveaway/games.jpg" alt="Games">
+    <div class="giveaway-card-body">
+      <div class="giveaway-card-title">Games </div>
+      <p class="giveaway-card-desc"> Ticket to Ride, a world puzzle (pieces are in shapes of countries), Pass the Pigs, Five Crowns  </p>
       <span class="giveaway-badge badge-available">Available</span>
     </div>
   </div>
+  
+
+  
 
 </div>
