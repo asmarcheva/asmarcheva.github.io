@@ -145,7 +145,7 @@ title: Free to a Good Home
     <div class="giveaway-card-body">
       <div class="giveaway-card-title">Steel Bike </div>
       <p class="giveaway-card-desc"> Vintage bike -- it works but I put the wheel on a little crooked so you might need to fix that  </p>
-      <span class="giveaway-badge badge-available">All available</span>
+      <span class="giveaway-badge badge-available">GONE</span>
     </div>
   </div>
 
@@ -154,7 +154,7 @@ title: Free to a Good Home
     <div class="giveaway-card-body">
       <div class="giveaway-card-title">Bike stuff </div>
       <p class="giveaway-card-desc"> Helmet with a light in the back, bike light, unused tube for steel bike, tube repair kit, small and big bike pump  </p>
-      <span class="giveaway-badge badge-available">All available</span>
+      <span class="giveaway-badge badge-available">GONE</span>
     </div>
   </div>
 
@@ -235,7 +235,7 @@ title: Free to a Good Home
     <div class="giveaway-card-body">
       <div class="giveaway-card-title"> Cookbooks </div>
       <p class="giveaway-card-desc"> Greek and Italian. The Italian book is signed if you care about that haha  </p>
-      <span class="giveaway-badge badge-available">All available</span>
+      <span class="giveaway-badge badge-available">GONE</span>
     </div>
   </div>
 
