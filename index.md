@@ -2,11 +2,13 @@
 layout: default
 ---
 
-I am a PhD Candidate at Cornell Dyson School of Applied Economics and Management.
+I am a PhD Candidate at Cornell Dyson School of Applied Economics and Management. I study Environmental and Resource economics, and I'm particularly interested in water management and climate change adaptation. 
 
-I study Environmental and Resource economics, and I'm particularly interested in water management and climate change adaptation.  
+I am starting as a Postdoc at the Observatory on the Environmental Footprint of AI hosted by Paris School of Economics.
 
-My [job market paper](https://asmarcheva.github.io/files/JMP.pdf) is about how California farmers take up water conserving and groundwater intensifying adaptation based on surface water scarcity announced at different points in the planting season. I find that (ex-ante) adaptation to expected scarcity is highly privately beneficial, and imposes minimal contemporaneous external costs, though it does generate some longer-run costs through increased well drilling. (Ex-post) adaptation to scarcity announced late in the season results in substantial increases in groundwater use. 
+I also have a [free stuff page](https://asmarcheva.github.io/giveaway) if you're in Ithaca.
+
+My [job market paper](https://asmarcheva.github.io/files/JMP.pdf) is about how farmers in California adapt to surface water scarcity.
 
 My **CV** is [here](https://asmarcheva.github.io/files/CV.pdf). You can reach me at <a href="asm395@cornell.edu">asm395@cornell.edu</a>.
 
