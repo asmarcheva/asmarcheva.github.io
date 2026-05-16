@@ -123,6 +123,78 @@ Everything was either given to me or cost me less than $30. My main hope is that
       <span class="giveaway-badge badge-available">Available</span>
     </div>
   </div>
+
+  <div class="giveaway-card">
+    <img src="/assets/img/giveaway/camp.jpg" alt="Camping stuff">
+    <div class="giveaway-card-body">
+      <div class="giveaway-card-title">Camping stuff </div>
+      <p class="giveaway-card-desc"> 20 degree sleeping bag, sleeping pad, mini backpacking grill, two Yetis  </p>
+      <span class="giveaway-badge badge-available">All available</span>
+    </div>
+  </div>
+
+  <div class="giveaway-card">
+    <img src="/assets/img/giveaway/casettes.jpg" alt="Casettes">
+    <div class="giveaway-card-body">
+      <div class="giveaway-card-title">Casettes and player </div>
+      <p class="giveaway-card-desc"> Battery-powered casette player and a variety of casettes  </p>
+      <span class="giveaway-badge badge-available">All available</span>
+    </div>
+  </div>
+
+  <div class="giveaway-card">
+    <img src="/assets/img/giveaway/snow.jpg" alt="Snow stuff">
+    <div class="giveaway-card-body">
+      <div class="giveaway-card-title">Snow stuff </div>
+      <p class="giveaway-card-desc"> Awesome blow-up snow tube (also works in water) and a snow brush  </p>
+      <span class="giveaway-badge badge-available">All available</span>
+    </div>
+  </div>
+
+  <div class="giveaway-card">
+    <img src="/assets/img/giveaway/steel-bike.jpg" alt="Steel Bike">
+    <div class="giveaway-card-body">
+      <div class="giveaway-card-title">Steel Bike </div>
+      <p class="giveaway-card-desc"> Vintage bike -- it works but I put the wheel on a little crooked so you might need to fix that  </p>
+      <span class="giveaway-badge badge-available">All available</span>
+    </div>
+  </div>
+
+  <div class="giveaway-card">
+    <img src="/assets/img/giveaway/bike.jpg" alt="Bike stuff">
+    <div class="giveaway-card-body">
+      <div class="giveaway-card-title">Bike stuff </div>
+      <p class="giveaway-card-desc"> Helmet with a light in the back, bike light, unused tube for steel bike, tube repair kit, small and big bike pump  </p>
+      <span class="giveaway-badge badge-available">All available</span>
+    </div>
+  </div>
+
+  <div class="giveaway-card">
+    <img src="/assets/img/giveaway/cd.jpg" alt="CD stuff">
+    <div class="giveaway-card-body">
+      <div class="giveaway-card-title">CD stuff </div>
+      <p class="giveaway-card-desc"> CD player (plug in) and the CDs I like least haha  </p>
+      <span class="giveaway-badge badge-available">All available</span>
+    </div>
+  </div>
+
+  <div class="giveaway-card">
+    <img src="/assets/img/giveaway/bookshelf.jpg" alt="Bookshelf">
+    <div class="giveaway-card-body">
+      <div class="giveaway-card-title"> Yellow bookshelf </div>
+      <p class="giveaway-card-desc"> The yellow bookshelf (nothing on it; but you can take the books, I was gonna donate most of them)  </p>
+      <span class="giveaway-badge badge-available">All available</span>
+    </div>
+  </div>
+
+   <div class="giveaway-card">
+    <img src="/assets/img/giveaway/bookshelf.jpg" alt="Bookshelf">
+    <div class="giveaway-card-body">
+      <div class="giveaway-card-title"> Yellowookshelf </div>
+      <p class="giveaway-card-desc"> The yellow bookshelf (nothing on it; but you can take the books, I was gonna donate most of them)  </p>
+      <span class="giveaway-badge badge-available">All available</span>
+    </div>
+  </div>
   
 
   
