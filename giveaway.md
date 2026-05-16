@@ -293,4 +293,31 @@ title: Free to a Good Home
     </div>
   </div>
 
+  <div class="giveaway-card">
+    <img src="/assets/img/giveaway/cooks.jpg.jpeg" alt="Cook's Illustrated">
+    <div class="giveaway-card-body">
+      <div class="giveaway-card-title"> Cook's Illustrated </div>
+      <p class="giveaway-card-desc"> Two years + some other months of Cook's Illustrated. These magazines are awesome!  </p>
+      <span class="giveaway-badge badge-available">All available</span>
+    </div>
+  </div>
+
+  <div class="giveaway-card">
+    <img src="/assets/img/giveaway/ancient-paper.jpg.jpeg" alt="Old Paper">
+    <div class="giveaway-card-body">
+      <div class="giveaway-card-title"> Old Paper </div>
+      <p class="giveaway-card-desc"> Like 30 sheets of this big old paper that is fun to draw on and feel old timey. The white paper is for scale. </p>
+      <span class="giveaway-badge badge-available">All available</span>
+    </div>
+  </div>
+
+  <div class="giveaway-card">
+    <img src="/assets/img/giveaway/piano-music.jpg.jpeg" alt="Hard Piano Music">
+    <div class="giveaway-card-body">
+      <div class="giveaway-card-title"> Hard Piano Music </div>
+      <p class="giveaway-card-desc"> This piano music is too hard for me. Kabalevsky Sonatina, Rachmaninov, Hungarian etudes, Clementi Sonatinas </p>
+      <span class="giveaway-badge badge-available">All available</span>
+    </div>
+  </div>
+
 </div>
