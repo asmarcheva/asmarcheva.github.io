@@ -24,8 +24,8 @@ title: Free to a Good Home
 
 .giveaway-card img {
   width: 100%;
-  height: 180px;
-  object-fit: cover;
+  aspect-ratio: 3/4;
+  object-fit: contain;
   display: block;
   background: #f0f0f0;
 }
@@ -186,7 +186,7 @@ title: Free to a Good Home
   </div>
   
   <div class="giveaway-card">
-    <img src="/assets/img/giveaway/target-chair.jpeg" alt="Target chair">
+    <img src="/assets/img/giveaway/target-chair.jpg.jpeg" alt="Target chair">
     <div class="giveaway-card-body">
       <div class="giveaway-card-title"> Target chair </div>
       <p class="giveaway-card-desc"> Yes this is just a cheap chair from Target but it is comfy </p>
