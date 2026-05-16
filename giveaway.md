@@ -91,7 +91,7 @@ title: Free to a Good Home
     <div class="giveaway-card-body">
       <div class="giveaway-card-title">Toolset </div>
       <p class="giveaway-card-desc">The box is broken but the tools are fine</p>
-      <span class="giveaway-badge badge-available">All available</span>
+      <span class="giveaway-badge badge-available">GONE</span>
     </div>
   </div>
 
@@ -100,7 +100,7 @@ title: Free to a Good Home
     <div class="giveaway-card-body">
       <div class="giveaway-card-title">Music stuff </div>
       <p class="giveaway-card-desc"> Morris 3/4 guitar; I reduced the action so it is nice to play. And a foldable music stand  </p>
-      <span class="giveaway-badge badge-available">All available</span>
+      <span class="giveaway-badge badge-available">Music stand available</span>
     </div>
   </div>
 
@@ -109,7 +109,7 @@ title: Free to a Good Home
     <div class="giveaway-card-body">
       <div class="giveaway-card-title">Games </div>
       <p class="giveaway-card-desc"> Ticket to Ride, a world puzzle (pieces are in shapes of countries), Pass the Pigs, Five Crowns  </p>
-      <span class="giveaway-badge badge-available">All available</span>
+      <span class="giveaway-badge badge-available">All but TTR available</span>
     </div>
   </div>
 
@@ -118,7 +118,7 @@ title: Free to a Good Home
     <div class="giveaway-card-body">
       <div class="giveaway-card-title">Camping stuff </div>
       <p class="giveaway-card-desc"> 20 degree sleeping bag, sleeping pad, mini backpacking grill, two Yetis  </p>
-      <span class="giveaway-badge badge-available">All available</span>
+      <span class="giveaway-badge badge-available">GONE</span>
     </div>
   </div>
 
@@ -172,7 +172,7 @@ title: Free to a Good Home
     <div class="giveaway-card-body">
       <div class="giveaway-card-title"> Yellow bookshelf </div>
       <p class="giveaway-card-desc"> The yellow bookshelf (nothing on it; but you can take the books, I was gonna donate most of them)  </p>
-      <span class="giveaway-badge badge-available">All available</span>
+      <span class="giveaway-badge badge-available">GONE</span>
     </div>
   </div>
 
@@ -181,7 +181,7 @@ title: Free to a Good Home
     <div class="giveaway-card-body">
       <div class="giveaway-card-title"> Gliding chair </div>
       <p class="giveaway-card-desc"> The gliding chair squeaks a little but the cushion and wood is in good condition </p>
-      <span class="giveaway-badge badge-available">All available</span>
+      <span class="giveaway-badge badge-available">GONE</span>
     </div>
   </div>
   
@@ -199,7 +199,7 @@ title: Free to a Good Home
     <div class="giveaway-card-body">
       <div class="giveaway-card-title"> Sports stuff </div>
       <p class="giveaway-card-desc"> 4 badminton raquets and birdies, frisbee, and a volleyball that needs pumping </p>
-      <span class="giveaway-badge badge-available">All available</span>
+      <span class="giveaway-badge badge-available">Frisbee, volleyball available</span>
     </div>
   </div>
 
@@ -226,7 +226,7 @@ title: Free to a Good Home
     <div class="giveaway-card-body">
       <div class="giveaway-card-title"> Christian books </div>
       <p class="giveaway-card-desc"> Lots of CS Lewis, some Russian books in English. I have a lot more lol lmk if you need a hookup  </p>
-      <span class="giveaway-badge badge-available">All available</span>
+      <span class="giveaway-badge badge-available">GONE</span>
     </div>
   </div>
 
@@ -262,7 +262,7 @@ title: Free to a Good Home
     <div class="giveaway-card-body">
       <div class="giveaway-card-title"> Cooler </div>
       <p class="giveaway-card-desc"> Somewhat large cooler  </p>
-      <span class="giveaway-badge badge-available">All available</span>
+      <span class="giveaway-badge badge-available">GONE</span>
     </div>
   </div>
 
@@ -280,7 +280,7 @@ title: Free to a Good Home
     <div class="giveaway-card-body">
       <div class="giveaway-card-title"> Chicken Paintings </div>
       <p class="giveaway-card-desc"> Two chicken paintings, about 14x18  </p>
-      <span class="giveaway-badge badge-available">All available</span>
+      <span class="giveaway-badge badge-available">GONE</span>
     </div>
   </div>
 
