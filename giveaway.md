@@ -82,7 +82,7 @@ title: Free to a Good Home
 
 ## Free Stuff 
 
-<p class="giveaway-intro"> Toni is moving to Paris and needs to give away her stuff. Everything must go! Everything is free! Everything not taken goes to one of our many thrift stores! If something catches your eye, text me (if you don't know my number, email me at asm395@cornell.edu). I can drop off goods wherever I am likely to see you (work, church etc). NOTE: stuff is categorized into groups but you do not need to take everything, just let me know what you want.<br><br>Everything was either given to me or cost me less than $30. My main hope is that it doesn't end up in the landfill immediately :D<br><br>If the item is big you might need to come pick it up.</p>
+<p class="giveaway-intro"> Toni is moving to Paris and needs to give away her stuff. Everything must go! Everything is free! Everything not taken goes to one of our many thrift stores! If something catches your eye, text me (if you don't know my number, email me at asm395@cornell.edu). I can drop off goods wherever I am likely to see you (work, church etc). NOTE: stuff is categorized into groups but you do not need to take everything, just let me know what you want.<br><br>Everything was either given to me or cost me less than $30. My main hope is that it doesn't end up in the landfill immediately :D<br><br>If the item is big you might need to come pick it up.<br><br>Items available until May 30th!</p>
 
 <div class="giveaway-grid">
 
